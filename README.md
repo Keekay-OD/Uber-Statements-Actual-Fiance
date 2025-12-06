@@ -23,7 +23,7 @@ A Python script that extracts transaction data from bank statement PDFs and conv
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone Uber-Statements-Actual-Fiance
    cd UberPDFCSVCON
    ```
 
