@@ -24,7 +24,7 @@ A Python script that extracts transaction data from bank statement PDFs and conv
 1. **Clone or download this repository:**
    ```bash
    git clone Uber-Statements-Actual-Fiance
-   cd UberPDFCSVCON
+   cd Uber-Statements-Actual-Fiance
    ```
 
 2. **Install required package:**
@@ -41,7 +41,7 @@ A Python script that extracts transaction data from bank statement PDFs and conv
 
    Your directory structure should look like:
    ```
-   UberPDFCSVCON/
+   Uber-Statements-Actual-Fiance/
    ├── pdf_to_csv.py      # The main script
    ├── pdf_statements/    # Folder for your PDF files
    ├── csv_output/        # Folder for generated CSV files
@@ -87,7 +87,7 @@ date,payee,amount
 ## File Structure
 
 ```
-UberPDFCSVCON/
+Uber-Statements-Actual-Fiance/
 ├── pdf_to_csv.py          # Main conversion script
 ├── pdf_statements/        # Input folder for PDF files
 │   ├── statement1.pdf
